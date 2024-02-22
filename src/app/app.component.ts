@@ -12,7 +12,7 @@ import { RouterModule } from '@angular/router';
 })
 
 export class AppComponent {
-  title = 'properties-app';
+  title = 'Homes App with GitHub and AWSGI';
 }
 
 
